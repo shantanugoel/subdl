@@ -4,6 +4,10 @@
 #
 # Uses code from subdownloader (a GUI app).
 
+import sys
+import codecs
+sys.stdout = codecs.getwriter('utf8')(sys.stdout)
+
 __doc__ = '''\
 Syntax: subdl [options] moviefile.avi
 
