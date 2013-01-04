@@ -1,6 +1,6 @@
 Subdl is a command-line tool for downloading subtitles from opensubtitles.org.
 
-Version 1.03
+Version 1.04
 
 Released under GPLv3+.
 
